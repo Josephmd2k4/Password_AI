@@ -18,7 +18,7 @@ def lengthCheck(passw):
         return True
 
 def hasSpecialCharacter(passw):
-    
+    pass
 
 
 if __name__ == "__main__":
